@@ -39,6 +39,7 @@ This project revolves around creating a custom R function called EPL_Standings, 
 
 ## Recommendations
 **• For Top Performers:**
+
 The top teams should continue to leverage their current strategies and maintain their momentum to ensure they remain at the top of the standings.
 
 Focus on managing player injuries and maintaining fitness levels to sustain high performance throughout the season.
@@ -46,6 +47,7 @@ Focus on managing player injuries and maintaining fitness levels to sustain high
 Strengthen Defense: Even for high-performing teams, improving defensive strategies could further increase their chances of winning.
 
 **• For Struggling Teams:**
+
 Evaluate and adjust tactical approaches to improve performance. This may involve changes in formation, player roles, or game strategies.
 
 Teams with a high Goals Against per Match (GAM) should prioritize strengthening their defensive line to reduce the number of goals conceded.
@@ -53,6 +55,7 @@ Teams with a high Goals Against per Match (GAM) should prioritize strengthening 
 Work on team morale and cohesion to foster a positive environment that encourages better performance on the field.
 
 **• General Recommendations**
+
 All teams should continually scout for new talent to address weaknesses and build a more competitive squad.
 
 Utilize performance data to make informed decisions on player selection, training focus, and match tactics.

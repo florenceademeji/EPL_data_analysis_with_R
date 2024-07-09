@@ -44,7 +44,7 @@ The top teams should continue to leverage their current strategies and maintain 
 
 Focus on managing player injuries and maintaining fitness levels to sustain high performance throughout the season.
 
-Strengthen Defense: Even for high-performing teams, improving defensive strategies could further increase their chances of winning.
+Improving defensive strategies could further increase their chances of winning even for high-performing teams.
 
 **• For Struggling Teams:**
 

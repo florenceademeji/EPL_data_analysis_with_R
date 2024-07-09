@@ -38,6 +38,28 @@ This project revolves around creating a custom R function called EPL_Standings, 
 
 
 ## Recommendations
-##### • Regular Data Validation: Continuously validate and clean the dataset to maintain accuracy.
-##### • Expand Function Features: Incorporate additional features, such as multi-season trend analysis or player-specific performance metrics.
-##### • Develop a User-Friendly Interface: Create an accessible interface for non-technical users to easily view and interpret league standings.
+##### • For Top Performers:
+
+Maintain Momentum: The top teams should continue to leverage their current strategies and maintain their momentum to ensure they remain at the top of the standings.
+
+Injury Management: Focus on managing player injuries and maintaining fitness levels to sustain high performance throughout the season.
+
+Strengthen Defense: Even for high-performing teams, improving defensive strategies could further increase their chances of winning.
+
+##### • For Struggling Teams:
+
+Strategic Adjustments: Evaluate and adjust tactical approaches to improve performance. This may involve changes in formation, player roles, or game strategies.
+
+Focus on Defense: Teams with a high Goals Against per Match (GAM) should prioritize strengthening their defensive line to reduce the number of goals conceded.
+
+Boost Morale: Work on team morale and cohesion to foster a positive environment that encourages better performance on the field.
+
+##### • General Recommendations
+
+Scouting and Recruitment: All teams should continually scout for new talent to address weaknesses and build a more competitive squad.
+
+Data-Driven Decisions: Utilize performance data to make informed decisions on player selection, training focus, and match tactics.
+
+Fitness and Conditioning: Ensure all players are at peak physical condition to reduce injuries and improve overall performance.
+
+##### These recommendations aim to help teams optimize their performance and address key areas for improvement based on the analysis.

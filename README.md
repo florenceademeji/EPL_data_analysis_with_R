@@ -25,6 +25,19 @@ This project revolves around creating a custom R function called EPL_Standings, 
 ##### • Performance Metrics: The function calculates key metrics such as points per match, point percentage, goals scored per match, and goals allowed per match.
 ##### • Team Comparison: Provides detailed comparisons of team performances, offering clear standings based on multiple criteria.
 ##### • Dynamic Data Handling: The function can dynamically update standings with current season data as new matches occur.
+### Key Insights
+
+1. **Top Performers**:
+   - The top 5 teams based on Points Per Match (PPM) show the strongest performance in the league as of the selected date. These teams have consistently won more matches and accumulated more points.
+   
+2. **Struggling Teams**:
+   - The bottom 5 teams based on Points Per Match (PPM) indicate those that are struggling the most in the league. They have fewer points and more losses compared to others.
+   
+3. **Goals Analysis**:
+   - The average goals scored per match (GSM) and goals against per match (GAM) provide insight into the offensive and defensive capabilities of the teams. Higher GSM indicates strong offensive performance, while lower GAM indicates better defensive performance.
+
+4. **Overall Performance**:
+   - The summary statistics give a quick overview of the league's performance as a whole, highlighting the average points per match and goals statistics.
 
 
 ## Recommendations
